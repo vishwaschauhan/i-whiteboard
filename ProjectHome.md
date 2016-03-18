@@ -1,0 +1,1 @@
+Intelligent Whiteboard extracts content drawn on whiteboards from images. It provides marker-based whiteboard detection and content post-processing to reduce illumination and noise artifacts.
